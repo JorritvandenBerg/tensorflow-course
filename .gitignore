@@ -1,0 +1,9 @@
+.DS_Store
+Dockerfile
+.ipynb_checkpoints
+notMNIST.pickle
+notMNIST_large
+notMNIST_large.tar.gz
+notMNIST_small
+notMNIST_small.tar.gz
+text8.zip
